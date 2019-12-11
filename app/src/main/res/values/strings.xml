@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TV Test</string>
+    <!-- Global Search -->
+    <!-- The action label for global search -->
+    <string name="global_search">GLOBALSEARCH</string>
+
+    <!-- The label for use as a searchable item -->
+    <string name="search_label">Leanback API Demo zyf</string>
+
+    <!-- The hint text that appears in the search box. -->
+    <string name="search_hint">Search for videos zyf</string>
+
+    <!-- The description that will show up in the search settings for this source.  -->
+    <string name="settings_description">Leanback API Demo Videos zyf</string>
+
+
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+
+    <string name="search_invoke">voicePromptText</string>
+    <string name="language">en</string>
+</resources>
